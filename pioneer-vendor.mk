@@ -324,6 +324,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pioneer/proprietary/vendor/lib/libsuntory.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsuntory.so \
     vendor/sony/pioneer/proprietary/vendor/lib/vendor.somc.hardware.security.secd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.somc.hardware.security.secd@1.0.so \
     vendor/sony/pioneer/proprietary/vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so \
+    vendor/sony/pioneer/proprietary/vendor/lib64/libcdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcdsprpc.so \
     vendor/sony/pioneer/proprietary/vendor/lib64/libdevice_security_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdevice_security_vendor.so \
     vendor/sony/pioneer/proprietary/vendor/lib64/libkeymasterdeviceutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterdeviceutils.so \
     vendor/sony/pioneer/proprietary/vendor/lib64/libkeymasterprovision.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterprovision.so \
